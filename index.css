@@ -1,0 +1,22 @@
+#titulo{
+    text-align: center;
+    font-size: 50px;
+    background-color: coral;
+    background: -webkit-linear-gradient(top, blue, rgb(124, 210, 212));
+    width: 50%;
+    border-radius: 30px; /*canto arredondado */
+    margin: 40px auto;
+    /*padding: 15px;*/
+    /*color: white;-cor da fonte*/
+    box-shadow: white 50px 50px 15px;
+}
+
+.imagem{
+    width:280px ;
+    height: 150px;
+    padding: 4px;
+    border: 2px solid black;
+    float: left;/*lado a lado*/
+    margin: 100px/*topo*/ 11px/*esquerda*/ 100px/*baixo*/ 8px/*direita*/;
+    border-radius: 10px;
+}
